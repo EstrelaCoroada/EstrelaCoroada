@@ -1,5 +1,5 @@
 ### Hellou!, Tudo bem🤗
-#### Sou uma garota em busca de conhecimento que não mede esforço para adquiri suas conquistas pessoais e profissionais.
+#### Sou uma garota em busca de conhecimento que não mede esforço para adquiri conquistas pessoais e profissionais.
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tainestefaneret.wixsite.com/meu-portfolio)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taine-stefane-silva-pereira-0aa65725b/)
