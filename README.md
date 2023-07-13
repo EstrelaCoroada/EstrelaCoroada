@@ -3,7 +3,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/taine-stefane-silva-pereira-0aa65725b/" target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-   <a href=" http://www.im-creator.com/free/thainystefany/meu-portfolio " target="_blank"><img height="40em" src="https://i.pinimg.com/564x/15/72/48/15724867a86466c493a910a9cb63a713.jpg"/></a>
+   <a href="http://www.im-creator.com/free/thainystefany/meu-portfolio" target="_blank"><img height="40em" src="https://i.pinimg.com/564x/15/72/48/15724867a86466c493a910a9cb63a713.jpg"/></a>
 <a href="https://www.instagram.com/thainy_stefany/" target="_blank"><img height="40em" src="https://i.pinimg.com/564x/bc/0d/db/bc0ddbe35e8e9bad28849981ce493e7d.jpg"/></a>
 <a href="https://www.youtube.com/@AraraMultiMusic" target="_blank"><img height="40em" src="https://i.pinimg.com/564x/b4/6c/fc/b46cfc17c64b0ae8e32d28c611ab8771.jpg"/></a>
 </div>
