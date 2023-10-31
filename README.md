@@ -1,5 +1,5 @@
 ### Hellou!, Tudo bem🤗
-#### Sou uma garota em busca de conhecimento que não mede esforço para adquiri suas conquistas pessoais e profissionais.
+#### Sou uma garota em busca de conhecimento que não mede esforços para alcançar suas metas pessoais e profissionais.
 
 <div> 
   <a href="https://www.linkedin.com/in/taine-stefane-silva-pereira-0aa65725b/" target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
